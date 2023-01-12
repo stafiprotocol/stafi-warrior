@@ -63,7 +63,7 @@ export function WarriorsList() {
     },
     {
       id:7,
-      title:'DB Moderator',
+      title:'BD Moderator',
       avatar:'/image/avatar_phizen.png',
       name:'Phizen',
       description:"A DeFi enthusiast, specialized in sustainable economic models.",
