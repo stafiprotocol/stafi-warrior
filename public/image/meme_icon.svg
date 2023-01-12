@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>画板</title>
+    <defs>
+        <linearGradient x1="10.4929716%" y1="4.60159512%" x2="92.2525491%" y2="95.3984049%" id="linearGradient-1">
+            <stop stop-color="#0093ED" offset="0%"></stop>
+            <stop stop-color="#00F3AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.4929716%" y1="0%" x2="92.2525491%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0093ED" offset="0%"></stop>
+            <stop stop-color="#00F3AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.1232429%" y1="0%" x2="60.5631373%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0093ED" offset="0%"></stop>
+            <stop stop-color="#00F3AB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="biaoqingbao" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <path d="M19.4999868,57.2 C19.5073511,61.4298094 20.2825892,65.6231428 21.788,69.576 C34.6416718,76.8500455 50.6759961,75.2857389 61.8813658,65.6644963 C73.0867355,56.0432537 77.0582407,40.4299979 71.812,26.624 C60.9479134,20.4930025 47.6449405,20.5938147 36.8750199,26.8887584 C26.1050992,33.1837021 19.4892034,44.72533 19.4999868,57.2 L19.4999868,57.2 Z" id="Path" fill-opacity="0.1" fill="url(#linearGradient-1)"></path>
+            <path d="M39,78 C17.4608948,78 0,60.5391052 0,39 C0,17.4608948 17.4608948,0 39,0 C60.5391052,0 78,17.4608948 78,39 C78,60.5391052 60.5391052,78 39,78 Z M39,7.8 C21.7687158,7.8 7.8,21.7687158 7.8,39 C7.8,56.2312842 21.7687158,70.2 39,70.2 C56.2312842,70.2 70.2,56.2312842 70.2,39 C70.2,30.7252455 66.9128666,22.7894034 61.0617316,16.9382684 C55.2105966,11.0871334 47.2747545,7.8 39,7.8 Z" id="Shape" stroke="url(#linearGradient-2)" fill-opacity="0.1" fill="url(#linearGradient-2)"></path>
+            <path d="M27.3,26 L27.3,26 C29.9,26 31.2,27.3 31.2,29.9 L31.2,37.7 C31.2,40.3 29.9,41.6 27.3,41.6 L27.3,41.6 C24.7,41.6 23.4,40.3 23.4,37.7 L23.4,29.9 C23.4,27.3 24.7,26 27.3,26 Z" id="Path" stroke="url(#linearGradient-3)" fill="url(#linearGradient-3)"></path>
+            <path d="M50.7,26 L50.7,26 C53.3,26 54.6,27.3 54.6,29.9 L54.6,37.7 C54.6,40.3 53.3,41.6 50.7,41.6 L50.7,41.6 C48.1,41.6 46.8,40.3 46.8,37.7 L46.8,29.9 C46.8,27.3 48.1,26 50.7,26 Z" id="Path" stroke="url(#linearGradient-3)" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
