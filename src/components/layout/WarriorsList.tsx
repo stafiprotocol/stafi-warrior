@@ -38,7 +38,7 @@ export function WarriorsList() {
       id:4,
       title:'Forum Manager',
       avatar:'/image/avatar_4.png',
-      name:'Aniel Essien',
+      name:'Jay Caesar',
       description:"I am a realist, dad's youngest, a blockchain preacher, If you want to discuss come to the forum, let's have some fun 😉",
       twitter_url:'https://twitter.com/joshua_aniel',
       twitter_username:'@joshua_aniel',
