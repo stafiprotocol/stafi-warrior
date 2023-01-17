@@ -29,10 +29,13 @@ export function AvatarCard({
         <div className='hidden group-hover:block'>
           <p className='text-center text-white text-sm leading-relaxed'>{description}</p>
           <div className='absolute inset-x-0 bottom-0 pb-6'>
-            <Link href={twitter_url} target="_blank">
-              <img src='/image/twitter_logo.png' className='w-12 mx-auto hidden md:block'/>
-              <p className='text-white/50 text-sm text-center mt-2 hidden md:block'>{twitter_username}</p>
-            </Link>
+            { 
+              twitter_url != "/" &&
+              <Link href={twitter_url} target="_blank">
+                <img src='/image/twitter_logo.png' className='w-12 mx-auto hidden md:block'/>
+                <p className='text-white/50 text-sm text-center mt-2 hidden md:block'>{twitter_username}</p>
+              </Link>
+            }
           </div>
         </div>
       </div>

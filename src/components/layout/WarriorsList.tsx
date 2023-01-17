@@ -40,8 +40,8 @@ export function WarriorsList() {
       avatar:'/image/avatar_4.png',
       name:'Jay Caesar',
       description:"I am a realist, dad's youngest, a blockchain preacher, If you want to discuss come to the forum, let's have some fun 😉",
-      twitter_url:'https://twitter.com/joshua_aniel',
-      twitter_username:'@joshua_aniel',
+      twitter_url:'https://twitter.com/Caesar_Jay1',
+      twitter_username:'@Caesar_Jay1',
     },
     {
       id:5,
@@ -67,8 +67,8 @@ export function WarriorsList() {
       avatar:'/image/avatar_phizen.png',
       name:'Phizen',
       description:"A DeFi enthusiast, specialized in sustainable economic models.",
-      twitter_url:'https://twitter.com/PhizenStafi',
-      twitter_username:'@PhizenStafi',
+      // twitter_url:'https://twitter.com/PhizenStafi',
+      // twitter_username:'@PhizenStafi',
     }
   ]
   const warriorsAmbassadorList = [
