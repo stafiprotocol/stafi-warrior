@@ -108,6 +108,15 @@ export function WarriorsList() {
       twitter_url:'https://twitter.com/cosmosadvocate',
       twitter_username:'@cosmosadvocate',
     },
+    {
+      id:5,
+      title:'StaFi Ambassador',
+      avatar:'/image/avatar11_icon.png',
+      name:'Joshua Ikechukwu',
+      description:"Hi, I’m Joshua Ikechukwu here, purely known as Joshyysmartt on my social media platforms. I’m specialized in the creation of designs but with no coding skills.",
+      twitter_url:'https://twitter.com/Joshyysmartt',
+      twitter_username:'@Joshyysmartt',
+    },
   ]
   
   const ModeratorList = [
