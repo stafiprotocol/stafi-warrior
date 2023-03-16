@@ -69,6 +69,15 @@ export function WarriorsList() {
       description:"A DeFi enthusiast, specialized in sustainable economic models.",
       // twitter_url:'https://twitter.com/PhizenStafi',
       // twitter_username:'@PhizenStafi',
+    },
+    {
+      id:8,
+      title:'Twitter Operator',
+      avatar:'/image/avatar_ella.png',
+      name:'Ella Jessy',
+      description:"A Blockchain enthusiast who is passionate about leveraging the Blockchain transformative technology to drive innovation.",
+      twitter_url:'https://twitter.com/Kul_ellajessica',
+      twitter_username:'@Kul_ellajessica',
     }
   ]
   const warriorsAmbassadorList = [
@@ -107,16 +116,7 @@ export function WarriorsList() {
       description:"Hi, I'm Kenny from Nigeria and I've been an adopter of the Blockchain technology for a few years new. Happy to Be a StaFi Warrior.",
       twitter_url:'https://twitter.com/cosmosadvocate',
       twitter_username:'@cosmosadvocate',
-    },
-    {
-      id:5,
-      title:'StaFi Ambassador',
-      avatar:'/image/avatar11_icon.png',
-      name:'Joshua Ikechukwu',
-      description:"Hi, I’m Joshua Ikechukwu here, purely known as Joshyysmartt on my social media platforms. I’m specialized in the creation of designs but with no coding skills.",
-      twitter_url:'https://twitter.com/Joshyysmartt',
-      twitter_username:'@Joshyysmartt',
-    },
+    }
   ]
   
   const ModeratorList = [
