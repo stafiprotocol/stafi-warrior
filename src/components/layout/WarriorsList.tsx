@@ -78,6 +78,15 @@ export function WarriorsList() {
       description:"A Blockchain enthusiast who is passionate about leveraging the Blockchain transformative technology to drive innovation.",
       twitter_url:'https://twitter.com/Kul_ellajessica',
       twitter_username:'@Kul_ellajessica',
+    },
+    {
+      id:9,
+      title:'BD Moderator',
+      avatar:'/image/avatar_kelvin.png',
+      name:'Kelvin',
+      description:"An Electronics Engineer turned into a Crypto Researcher. Passionate in bridging the gap of No-Coiners to become a Crypto Believer.",
+      twitter_url:'https://twitter.com/KelvinAerovall',
+      twitter_username:'@KelvinAerovall',
     }
   ]
   const warriorsAmbassadorList = [
