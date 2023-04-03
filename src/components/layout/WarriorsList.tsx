@@ -72,15 +72,6 @@ export function WarriorsList() {
     },
     {
       id:8,
-      title:'Twitter Operator',
-      avatar:'/image/avatar_ella.png',
-      name:'Ella Jessy',
-      description:"A Blockchain enthusiast who is passionate about leveraging the Blockchain transformative technology to drive innovation.",
-      twitter_url:'https://twitter.com/Kul_ellajessica',
-      twitter_username:'@Kul_ellajessica',
-    },
-    {
-      id:9,
       title:'BD Moderator',
       avatar:'/image/avatar_kelvin.png',
       name:'Kelvin',
