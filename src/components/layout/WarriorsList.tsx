@@ -116,6 +116,24 @@ export function WarriorsList() {
       description:"Hi, I'm Kenny from Nigeria and I've been an adopter of the Blockchain technology for a few years new. Happy to Be a StaFi Warrior.",
       twitter_url:'https://twitter.com/cosmosadvocate',
       twitter_username:'@cosmosadvocate',
+    },
+    {
+      id:5,
+      title:'StaFi Ambassador',
+      avatar:'/image/avatar_chioma.png',
+      name:'Chioma Chukwurah',
+      description:"I have been around crypto environment for over 4 years now. I have also successfully did many crypto Ambassador works and have the necessary skills I can contribute towards achieving the target goals of this Project.",
+      twitter_url:'https://twitter.com/ChiomaChukwura2',
+      twitter_username:'@ChiomaChukwura2',
+    },
+    {
+      id:6,
+      title:'StaFi Ambassador',
+      avatar:'/image/avatar_sanchez.png',
+      name:'Sanchez',
+      description:"My deep-rooted passion for cryptocurrencies, DeFi, and blockchain technology has fueled my continuous learning, research, and active participation in the crypto community.",
+      twitter_url:'https://twitter.com/kvng_aries',
+      twitter_username:'@kvng_aries',
     }
   ]
   
