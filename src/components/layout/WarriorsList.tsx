@@ -78,18 +78,18 @@ export function WarriorsList() {
       description:"An Electronics Engineer turned into a Crypto Researcher. Passionate in bridging the gap of No-Coiners to become a Crypto Believer.",
       twitter_url:'https://twitter.com/KelvinAerovall',
       twitter_username:'@KelvinAerovall',
+    },
+    {
+      id:9,
+      title:'Twitter Operator',
+      avatar:'/image/avatar_jupiter.png',
+      name:'Jupiter',
+      description:"I got into college to study Petroleum Engineering, but instead I coincidentally learnt about blockchain, and it changed my life. Now I'm on a mission to tell others about it.",
+      twitter_url:'https://twitter.com/mrrpiusz',
+      twitter_username:'@mrrpiusz',
     }
   ]
   const warriorsAmbassadorList = [
-    {
-      id:1,
-      title:'StaFi Ambassador',
-      avatar:'/image/avatar_7.png',
-      name:'Alpha Chukwunelo',
-      description:"I'm Alpha Chukwunelo and being the first is my hobby 😂. I'm a crypto enthusiast, Arsenal fan, Cosmonaut and Web3 Privacy merchant.",
-      twitter_url:'https://twitter.com/AlpharezCC',
-      twitter_username:'@AlpharezCC',
-    },
     {
       id:2,
       title:'StaFi Ambassador',
@@ -109,24 +109,6 @@ export function WarriorsList() {
       twitter_username:'@delkind26',
     },
     {
-      id:4,
-      title:'StaFi Ambassador',
-      avatar:'/image/avatar10_icon.png',
-      name:'Kenny',
-      description:"Hi, I'm Kenny from Nigeria and I've been an adopter of the Blockchain technology for a few years new. Happy to Be a StaFi Warrior.",
-      twitter_url:'https://twitter.com/cosmosadvocate',
-      twitter_username:'@cosmosadvocate',
-    },
-    {
-      id:5,
-      title:'StaFi Ambassador',
-      avatar:'/image/avatar_chioma.png',
-      name:'Chioma Chukwurah',
-      description:"I have been around crypto environment for over 4 years now. I have also successfully did many crypto Ambassador works and have the necessary skills I can contribute towards achieving the target goals of this Project.",
-      twitter_url:'https://twitter.com/ChiomaChukwura2',
-      twitter_username:'@ChiomaChukwura2',
-    },
-    {
       id:6,
       title:'StaFi Ambassador',
       avatar:'/image/avatar_sanchez.png',
@@ -134,6 +116,15 @@ export function WarriorsList() {
       description:"My deep-rooted passion for cryptocurrencies, DeFi, and blockchain technology has fueled my continuous learning, research, and active participation in the crypto community.",
       twitter_url:'https://twitter.com/kvng_aries',
       twitter_username:'@kvng_aries',
+    },
+    {
+      id:7,
+      title:'StaFi Ambassador',
+      avatar:'/image/avatar_charles.png',
+      name:'Charles',
+      description:"I'm a 22 year-old Crypto enthusiast from Nigeria. I love to serve humanity in all ways possible. Presently, I see the Crypto-space as a means to serve the technological advancements of humanity.",
+      twitter_url:'https://twitter.com/charlesace_',
+      twitter_username:'@charlesace_',
     }
   ]
   
