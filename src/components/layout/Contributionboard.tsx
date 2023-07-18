@@ -10,6 +10,24 @@ import "swiper/css/autoplay"
 
 const slides =[
   {
+    id:18,
+    month:'6',
+    date: 'June，2023',
+    url:'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-june-2023/91/10?u=sara_stafi'
+  },
+  {
+    id:17,
+    month:'5',
+    date: 'May，2023',
+    url:'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-may-2023/82/11?u=sara_stafi'
+  },
+  {
+    id:16,
+    month:'4',
+    date: 'April，2023',
+    url:'https://commonwealth.im/stafi/discussion/11318-stafi-warriors-contribution-submission-assessment-2023-april'
+  },
+  {
     id:15,
     month:'3',
     date: 'March，2023',

@@ -8,11 +8,11 @@ import "swiper/css/autoplay"
 
 const awardList = [
   {
-    image:"/image/2023Q1moderatorrewards_icon.png",
+    image:"/image/2023Q2moderatorrewards_icon.png",
     id:1,
   },
   {
-    image:"/image/2023Q1ambassadorrewards_icon.png",
+    image:"/image/2023Q2ambassadorrewards_icon.png",
     id:2,
   }
 ]
