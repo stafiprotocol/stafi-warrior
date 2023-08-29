@@ -62,15 +62,6 @@ export function WarriorsList() {
       twitter_username:'@aaboltaabol',
     },
     {
-      id:7,
-      title:'BD Moderator',
-      avatar:'/image/avatar_phizen.png',
-      name:'Phizen',
-      description:"A DeFi enthusiast, specialized in sustainable economic models.",
-      // twitter_url:'https://twitter.com/PhizenStafi',
-      // twitter_username:'@PhizenStafi',
-    },
-    {
       id:8,
       title:'BD Moderator',
       avatar:'/image/avatar_kelvin.png',
