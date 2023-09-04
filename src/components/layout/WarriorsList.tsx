@@ -116,6 +116,15 @@ export function WarriorsList() {
       description:"I'm a 22 year-old Crypto enthusiast from Nigeria. I love to serve humanity in all ways possible. Presently, I see the Crypto-space as a means to serve the technological advancements of humanity.",
       twitter_url:'https://twitter.com/charlesace_',
       twitter_username:'@charlesace_',
+    },
+    {
+      id:8,
+      title:'StaFi Ambassador',
+      avatar:'/image/avatar_jagwa.png',
+      name:'Jagwa',
+      description:"A freelancer who's a crypto enthusiast. Spreading word of crypto in every way possible though writeups, animations and graphics design.",
+      twitter_url:'https://twitter.com/oghene_ganreTM?s=09',
+      twitter_username:'@oghene_ganreTM',
     }
   ]
   

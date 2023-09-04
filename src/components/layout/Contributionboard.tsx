@@ -10,6 +10,12 @@ import "swiper/css/autoplay"
 
 const slides =[
   {
+    id:19,
+    month:'7',
+    date: 'July，2023',
+    url:'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-july-2023/103'
+  },
+  {
     id:18,
     month:'6',
     date: 'June，2023',
