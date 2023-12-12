@@ -2,8 +2,8 @@ import { Meta } from '../components/Meta'
 import { Recruit } from '../components/layout/Recurit'
 import { Warriors } from '../components/layout/Warriors'
 import { ContributionBoard } from '../components/layout/Contributionboard'
-import { WarriorAward } from '../components/layout/WarriorAward'
 import { WarriorsList } from '../components/layout/WarriorsList'
+import { BountyList } from '../components/layout/BountyLst'
 import Link from 'next/link'
 
 export default function Home() {
@@ -13,13 +13,12 @@ export default function Home() {
       <Meta
         title='StaFi Warriors Team'
         description='StaFi Warriors team consists of the community member who believe StaFi‘s concepts and prospects deeply. They are working together with the core team to advocate and generalize StaFi’s vision and mission to build an open, free and self-governed StaFi community.'
-        image='/image/social_card.png'
+        image='https://warrior.stafi.io/social_card.png'
         url='https://warrior.stafi.io'
       />
       <div className='bg-blackColor'>
         <div className='bg-bgWave bg-cover bg-repeat bg-center'>
           <div className='max-w-7xl mx-auto'>
-            
             <section>
               <div className=''>
                 <div className='px-4 py-24'>
@@ -56,12 +55,12 @@ export default function Home() {
               </div>
             </section>
           <WarriorsList/>
-          <WarriorAward/>
-          <ContributionBoard/>
+          <BountyList/>
           <Recruit/>
           <div id='apply'>
             <Warriors/>
           </div>
+          <ContributionBoard/>
           </div>
         </div>
       </div>         

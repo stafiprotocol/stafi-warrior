@@ -6,7 +6,7 @@ export function Recruit() {
       <div className="py-12 md:py-24 px-8 md:px-24">
         <img src="/image/beekeeper_icon.png" className="mx-auto w-24"/>
         <h1 className="text-center font-anton text-base md:text-xl text-#FFA540 tracking-widest">
-          Recruitment
+          Reward
         </h1>
         <h2 className="text-white font-anton text-4xl md:text-5xl text-center mt-6 tracking-[.3em] md:tracking-[.3em]">
           You will Get
@@ -16,12 +16,12 @@ export function Recruit() {
             Financial Support
           </h3>
           <p className="text-center text-sm md:text-base mt-8 text-#5B6872 leading-relaxed  md:leading-relaxed tracking-wide md:tracking-wide">
-            Monthly salary base（400～1200$USDT in $FIS) and bonus (0~200$USDT in $FIS) based on the contribution and performance. Apart from that, warriors have the opportunities to get the quarterly Warrior Star Award(500 $FIS) and yearly Thanksgiving Gift (5000 $FIS) rewards.
+            Monthly salary base（200～1000 $USDT in $FIS, 7-day moving average price) and bonus (0~1500 $FIS) based on the contribution and performance. Apart from that, warriors have the opportunities to get the Warrior Star Award(500 $FIS).
           </p>
-          <div className="mt-12 grid grid-cols-5 md:grid-cols-11 gap-2">
+          <div className="mt-12 grid grid-cols-5 md:grid-cols-8 gap-2">
             <div className="col-span-2">
               <img src="/image/usdtprize_icon.svg" className="mx-auto w-14"/>
-              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> 400～1200 $USDT </p>
+              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> 200～1000 $USDT </p>
               <p className="text-sm md:text-base text-#5B6872 text-center mt-2"> Salary Base </p>
             </div>
             <div className="col-span-1 text-base text-[#00F3AB] text-center mt-[4.8rem]">
@@ -29,7 +29,7 @@ export function Recruit() {
             </div>
             <div className="col-span-2">
               <img src="/image/maxprize_icon.svg" className="mx-auto w-14"/>
-              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> Max 200 $USDT </p>
+              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> Max 1500 $FIS </p>
               <p className="text-sm md:text-base text-#5B6872 text-center mt-2"> Bonus </p>
             </div>
             <div className="col-span-1 text-base text-[#00F3AB] text-center mt-[4.8rem] hidden md:block">
@@ -37,16 +37,8 @@ export function Recruit() {
             </div>
             <div className="col-span-2">
               <img src="/image/fis_icon.svg" className="mx-auto w-14"/>
-              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> 500 FIS </p>
+              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> 500 $FIS </p>
               <p className="text-sm md:text-base text-#5B6872 text-center mt-2"> Warrior Star</p>
-            </div>
-            <div className="col-span-1 text-base text-[#00F3AB] text-center mt-[4.8rem]">
-              +
-            </div>
-            <div className="col-span-2">
-              <img src="/image/5000fis_icon.svg" className="mx-auto w-14"/>
-              <p className="text-sm md:text-base text-[#00F3AB] text-center mt-6"> 5000 FIS </p>
-              <p className="text-sm md:text-base text-#5B6872 text-center mt-2"> Thanksgiving </p>
             </div>
           </div>
         </div>
