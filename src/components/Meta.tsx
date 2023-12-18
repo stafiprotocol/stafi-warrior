@@ -20,7 +20,7 @@ export function Meta({
 
 }:MetaProps){
   const router = useRouter();
-  const imageUrl = url + image;
+  const imageUrl = image;
   const path = pathname || router.pathname;
   
   return (
