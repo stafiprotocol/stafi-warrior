@@ -1,6 +1,4 @@
 import { Board } from '../Board'
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Pagination, Autoplay } from 'swiper';
 
 import "swiper/css";
 import "swiper/css/pagination";
@@ -31,7 +29,7 @@ const slides = [
     id: 20,
     month: '8',
     date: 'August，2023',
-    url: ' https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-august-2023/112'
+    url: 'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-august-2023/112'
   },
   {
     id: 19,
