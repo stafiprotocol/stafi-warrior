@@ -5,30 +5,31 @@ const bountyList = [
   {
     id: 1,
     title: 'Integrate rToken to the popular wallet/dApp',
-    description: 'Assist in integrating current rTokens (native/link) into well-known wallets or dapps on their respective chains to boost the acceptance and overall supply of rTokens.',
+    description: 'Assist in integrating current rTokens (native/link) into well-known wallets or dapps on their respective chains to boost the acceptance and overall supply of rTokens. If you have completed or made a contribution, please click "Apply" to post a thread in the forum to describe your contribution. The community will review your submission and, if approved, will award you a reward.',
     amount: '500-1500 $FIS',
-    url: 'https://forms.gle/mPb92FUDvxhzi2EcA'
-  },
-  {
-    id: 2,
-    title: 'New rToken on the new popular Layer1',
-    description: 'StaFi is a multi-chain LSD protocol that offers LSD for Layer 1 networks. Discovering new Layer 1 opportunities and establishing partnerships, list new rTokens on Layer 1 through the rLaunchpad.',
-    amount: '500-1500 $FIS',
-    url: 'https://forms.gle/mPb92FUDvxhzi2EcA'
+    url: 'https://dao.stafi.io/c/integration/8'
   },
   {
     id: 3,
     title: 'LSD reaearch article',
-    description: 'Experienced in Liquidity Staking Derivatives (LSD) and DeFi, adept at creating research articles that integrate the most recent advancements and technological trends in LSD. Skilled in generating well-articulated content with a logical flow and a fluent writing style.',
-    amount: '500-700 $FIS',
-    url: 'https://forms.gle/mPb92FUDvxhzi2EcA'
+    description: 'Experienced in Liquidity Staking Derivatives (LSD) and DeFi, adept at creating research articles that integrate the most recent advancements and technological trends in LSD. Skilled in generating well-articulated content with a logical flow and a fluent writing style. We welcome research submissions in the technical field, including but not limited to ZK, TEE, interoperability, and AA. If you have new insights, please click "Apply" to submit your research paper in the forum.',
+    amount: '500-2000 $FIS',
+    url: 'https://dao.stafi.io/c/research/9'
   },
+  {
+    id: 2,
+    title: 'New rToken on the new popular Layer1',
+    description: 'StaFi is a multi-chain LSD protocol that offers LSD for Layer 1 networks. Discovering new Layer 1 opportunities and establishing partnerships, list new rTokens on Layer 1 through the rLaunchpad. If you have completed or made a contribution, please click "Apply" to post a thread in the forum to describe your contribution. The community will review your submission and, if approved, will award you a reward.',
+    amount: '500-1500 $FIS',
+    url: 'https://dao.stafi.io/c/newrtoken/2'
+  },
+ 
   {
     id: 4,
     title: 'StaFi Protocol research article',
-    description: `Familiar with StaFi's product portfolio and developmental trajectory, adept at composing concise articles that elucidate the latest products and technical aspects of StaFi.`,
-    amount: '300-600 $FIS',
-    url: 'https://forms.gle/mPb92FUDvxhzi2EcA'
+    description: `Familiar with StaFi's product portfolio and developmental trajectory, adept at composing concise articles that elucidate the latest products and technical aspects of StaFi. We welcome technical and code-related articles with relevant analysis. Please click "Apply" to submit your article in the forum.`,
+    amount: '300-700 $FIS',
+    url: 'https://dao.stafi.io/c/research/9'
   },
 ]
 

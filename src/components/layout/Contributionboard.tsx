@@ -10,6 +10,30 @@ import "swiper/css/autoplay"
 
 const slides = [
   {
+    id: 23,
+    month: '11',
+    date: 'November,2023',
+    url: 'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-november-2023/137'
+  },
+  {
+    id: 22,
+    month: '10',
+    date: 'October,2023',
+    url: 'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-october-2023/128'
+  },
+  {
+    id: 21,
+    month: '9',
+    date: 'September,2023',
+    url: 'https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-september-2023/119'
+  },
+  {
+    id: 20,
+    month: '8',
+    date: 'August，2023',
+    url: ' https://dao.stafi.io/t/stafi-warriors-contribution-submission-assessment-august-2023/112'
+  },
+  {
     id: 19,
     month: '7',
     date: 'July，2023',
