@@ -11,7 +11,7 @@ const bountyList = [
   },
   {
     id: 3,
-    title: 'LSD reaearch article',
+    title: 'LSD research article',
     description: 'Experienced in Liquidity Staking Derivatives (LSD) and DeFi, adept at creating research articles that integrate the most recent advancements and technological trends in LSD. Skilled in generating well-articulated content with a logical flow and a fluent writing style. We welcome research submissions in the technical field, including but not limited to ZK, TEE, interoperability, and AA. If you have new insights, please click "Apply" to submit your research paper in the forum.',
     amount: '500-2000 $FIS',
     url: 'https://dao.stafi.io/c/research/9'
